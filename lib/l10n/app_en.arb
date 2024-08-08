@@ -1,0 +1,679 @@
+
+{
+  "@accept": {
+    "accept": "Ok"
+  },
+  "@addMedicalRecord": {
+    "addMedicalRecord": "Add Medical Record"
+  },
+  "@addNewRequest": {
+    "addNewRequest": "Add New Record"
+  },
+  "@addPrescription": {
+    "addPrescription": "Add Prescription"
+  },
+  "@address": {
+    "address": "Address"
+  },
+  "@age": {
+    "age": "Age"
+  },
+  "@alertMessage": {
+    "alertMessage": "The service is not applicable for emergency service. This service is provide within 7:0 a.m to 9:00 p.m"
+  },
+  "@alternativeContact": {
+    "alternativeContact": "Alternative Phone Number"
+  },
+  "@appVideo": {
+    "appVideo": "App Video"
+  },
+  "@article": {
+    "article": "Article"
+  },
+  "@articleCategory": {
+    "articleCategory": "Article Category"
+  },
+  "@articleName": {
+    "articleName": "Article Name"
+  },
+  "@articleUrl": {
+    "articleUrl": "Article Url"
+  },
+  "@askQuestion": {
+    "askQuestion": "Ask\nQuestion"
+  },
+  "@attachImage": {
+    "attachImage": "Attach Image"
+  },
+  "@availableTime": {
+    "availableTime": "Available Time"
+  },
+  "@basicInformation": {
+    "basicInformation": "Basic Information about Patient"
+  },
+  "@benefit": {
+    "benefit": "Expected Benefit"
+  },
+  "@cPassword": {
+    "cPassword": "User Name"
+  },
+  "@callTime": {
+    "callTime": "From 9:00 a.m Morning to Evening 7:00 p.m"
+  },
+  "@camera": {
+    "camera": "Camera"
+  },
+  "@cancel": {
+    "cancel": "Cancel"
+  },
+  "@category": {
+    "category": "Category"
+  },
+  "@change": {
+    "change": "Change Password"
+  },
+  "@changeMobileNumber": {
+    "changeMobileNumber": "Change Mobile Number"
+  },
+  "@changePassword": {
+    "changePassword": "Change Password "
+  },
+  "@chatConsultant": {
+    "chatConsultant": "Chat\nConsultant"
+  },
+  "@chatRequest": {
+    "chatRequest": "Chat Request"
+  },
+  "@children": {
+    "children": "Children"
+  },
+  "@condition": {
+    "condition": "Agree with company Policy"
+  },
+  "@consent": {
+    "consent": "Informed Consent of Service"
+  },
+  "@consentList": {
+    "consentList": "I have read and understand the information provided above regarding telemedicine, have discussed it with my physician or such assistants as may be designated and all of my questions have been answer to my satisfaction.\n I have read this document carefully, and understand the risks and benefits of the teleconferencing consultation and have had my questions regarding the procedure explained and i hereby give my informed consent to participate in a telemedicine visit under the terms described herein. By Checking the box containing 'INFORMED CONSENT FOR TELEMEDICINE SERVICES' I hereby state that I have read, understand and agree to the terms of this document.PLEASE READ THESE TERMS OF SERVICE CAREFULLY. These terms of service (“Terms of Service”) apply to and govern your access to and use of any website (“Site”) owned or operated by Go Telecare, Inc. (“GoTelecare”, “we” or “us”). By using the “Site”, you agree to be bound by these Terms of Service and to use the Site in accordance with these Terms of Service, our Privacy Policy, and any additional terms and conditions that are referenced herein or that otherwise may apply to specific sections of the Site, or to products and services that we make available to you through the Site (all of which are deemed part of these Terms of Service). Accessing the Site in any manner, whether automated or otherwise, constitutes use of the Site and your agreement to be bound by these Terms of Service.We reserve the right to change these Terms of Service or to impose new conditions on use of the Site, from time to time, in which case we will post the revised Terms of Service on the Site and update the “Last Updated” date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Terms of Service, as modified. We also reserve the right to deny access to the Site or any features of the Site to anyone who violates these Terms of Service or who, in our sole judgment, interferes with the ability of others to enjoy our Site or infringes on the rights of others.1.Services Provided\nGoTelecare provides internet healthcare resources to connect individuals with participating physicians, licensed therapists and other licensed health care practitioners (the “Providers”) in real time, via live video conferencing, telephone and/or secure messaging for the diagnosis and treatment of patients over the Internet, as well as providing other types of administrative services and information (“Services”). All of the participating Providers are independent contractors. Providers may record video conference consultations and GoTelecare may record telephone calls for quality purposes. GoTelecare itself does not provide any medical or Provider services.2.The Site and all the materials available on the Site are the property of GoTelecare and/or our affiliates or licensors, and are protected by copyright, trademark, and other intellectual property laws. The Site is provided solely for your personal noncommercial use. You may not use the Site or the materials available on the Site in a manner that constitutes an infringement of our rights or that has not been authorized by us. More specifically, unless explicitly authorized in these Terms of Service or by the owner of the materials, you may not modify, copy, reproduce, republish, upload, post, transmit, translate, sell, create derivative works, exploit, or distribute in any manner or medium (including by email or other electronic means) any material from the Site. You may, however, from time to time, download and/or print one copy of individual pages of the Site for your personal, non-commercial use, provided that you keep intact all copyright and other proprietary notices. Information about requesting permission to reproduce or distribute materials from the Site can be obtained by contacting us as follows:\n\nEmail: care@hellodoctor.asia. 3.Our Right to Use Materials You Submit or Post\nWhen you submit or post any material (including any photos or videos) via the Site, you grant us, and anyone authorized by us, a royalty-free, perpetual, irrevocable, non-exclusive, unrestricted, worldwide license to use, copy, modify, transmit, sell, exploit, create derivative works from, distribute, and/or publicly perform or display such material, in whole or in part, in any manner or medium (whether now known or hereafter developed), for any purpose that we choose. The foregoing grant includes the right to exploit any proprietary rights in such posting or submission, including, but not limited to, rights under copyright, trademark or patent laws that exist in any relevant jurisdiction. Also, in connection with the exercise of these rights, you grant us, and anyone authorized by us, the right to identify you as the author of any of your postings or submissions by name, e-mail address or screen name, as we deem appropriate. You understand that the technical processing and transmission of the Site, including content submitted by you, may involve transmissions over various networks, and may involve changes to the content to conform and adapt it to technical requirements of connecting networks or devices. You will not receive any compensation of any kind for the use of any materials submitted by you.4. Limitations on Linking and Framing\nYou are free to establish a hypertext link to our Site so long as the link does not state or imply any sponsorship of your website or service by GoTelecare, or GoTelecare.com. However, you may not, without our prior written permission, frame or inline link any of the content of our Site, or incorporate into another website or other service any of our material, content or intellectual property.5. n order to access certain features of our Site, we may ask you to provide certain demographic information including your gender, year of birth, address, and payment information. In addition, if you elect to sign up for particular features of the Site, such as discussion forums, blogs, photo- and video-sharing pages or social networking features, you may also be asked to register with us on a form provided for registration purposes, and we may require you to provide personally identifiable information such as your name and e-mail address. You agree to provide true, accurate, current and complete information about yourself as prompted by the Site’s registration form. If we have reasonable grounds to suspect that such information is untrue, inaccurate, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Site (or any portion thereof). Our use of any information you provide to us as part of the registration process is governed by the terms of our Privacy Policy.6. Responsibility for Your Username and Password\nIn order to use certain features of our Site, you may need a username and password, which you will receive and/or create through the Site’s registration process. We reserve the right to reject or terminate the use of any username that we deem in our sole judgment offensive or inappropriate. In addition, we also reserve the right to terminate the use of any username or account, or to deny access to the Site or any features of the Site, to anyone who violates these Terms of Service or who, in our sole judgment, interferes with the ability of others to enjoy our website or infringes the rights of others. You are responsible for maintaining the confidentiality of your password and account, and you are responsible for all activities (whether by you or by others) that occur under your password or account. You agree to notify us immediately of any unauthorized use of your password or account or any other breach of security, and to ensure that you exit from your account at the end of each session. We cannot and will not be liable for any loss or damage arising from your failure to protect your password or account information. 7. Responsibility for User-Provided Content\nThe Site may include a variety of features, such as discussion forums, blogs, photo- and video-sharing pages, e-mail services and social networking features that allow feedback to us and allow users to interact with each other on the Site or to post content and materials for display on the Site. The Site also may include other features, such as personalized home pages and e-mail services that allow users to communicate with third parties. By accessing and using any such features, you represent and agree: (a) that you have read and agree to abide by our Community Rules as set forth below in Section 8; (b) that you are the owner of any materials you post or submit, or are making your posting or submission with the express consent of the owner of the materials; (c) that you are making your posting or submission with the express consent of anyone pictured in any materials you post or submit, (d) that you are 13 years of age or older; (e) that the materials will not violate the rights of, or cause injury to, any person or entity; and (f) that you will indemnify and hold harmless GoTelecare, our affiliates, and each of our and their respective directors, officers, managers, employees, shareholders, agents, representatives and licensors, from and against any liability of any nature arising out of or related to any content or materials displayed on or submitted via the Site by you or by others using your username and password. You also grant us a license to use the materials you post or submit via such features as described in Sections 2-4 above.\n\nResponsibility for what is posted on discussion forums, blogs, photo- and video-sharing pages, and other areas on the Site through which users can supply information or materials, or sent via any e-mail services that are made available via the Site, lies with each user. You alone are responsible for the materials you post or send. We do not control the messages, information or files that you or others may transmit, post or otherwise provide on or through the Site.\nYou understand that we have no obligation to monitor any discussion forums, blogs, photo- or video-sharing pages, or other areas of the Site through which users can supply information or materials. However, we reserve the right at all times, in our sole discretion, to screen content submitted by users and to edit, move, delete, and/or refuse to accept any content that in our judgment violates these Terms of Service or is otherwise unacceptable or inappropriate, whether for legal or other reasons.\n\nYou acknowledge and agree that we may preserve content and materials submitted by you and may also disclose such content and materials if required to do so by law or if, in our business judgment, such preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce these Terms of Service; (c) respond to claims that any content or materials submitted by you violate the rights of third parties; or (d) protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.8. Community Rules The Site may include a variety of features, such as discussion forums, blogs, photo- and video-sharing pages, e-mail services and social networking features that allow feedback to us and allow users to interact with each other on the Site and to post content and materials for display on the Site. The Site also may include other features, such as personalized home pages and e-mail services that allow users to communicate with third parties. By accessing and using any such features, you represent and agree that you will not:\n\nRestrict or inhibit any other user from using and enjoying the Site\nUse the Site to impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity\nInterfere with or disrupt any servers or networks used to provide the Site or its features, or disobey any requirements, procedures, policies or regulations of the networks we use to provide the Site\nUse the Site to instigate or encourage others to commit illegal activities or cause injury or property damage to any person\nGain unauthorized access to the Site, or any account, computer system, or network connected to the Site, by means such as hacking, password mining or other illicit means\nObtain or attempt to obtain any materials or information through any means not intentionally made available through the Site\nUse the Site to post or transmit any unlawful, threatening, abusive, libelous, defamatory, obscene, vulgar, pornographic, profane or indecent information of any kind, including without limitation any transmissions constituting or encouraging conduct that would constitute a criminal offense, give rise to civil liability or otherwise violate any local, state, national or international law\nUse the Site to post or transmit any information, software or other material that violates or infringes upon the rights of others, including material that is an invasion of privacy or publicity rights or that is protected by copyright, trademark or other proprietary right, or derivative works with respect thereto, without first obtaining permission from the owner or rights holder\nUse the Site to post or transmit any information, software or other material that contains a virus or other harmful component\nUse the Site to post, transmit or in any way exploit any information, software or other material for commercial purposes, or that contains advertising\nUse the Site to advertise or solicit to anyone to buy or sell products or services, or to make donations of any kind, without our express written approval\nGather for marketing purposes any e-mail addresses or other personal information that has been posted by other users of the Site\nContact anyone who has asked not to be contacted\nEngage in personal attacks, harass or threaten, question the motives behind others’ posts or comments, deliberately inflame or disrupt the conversation, or air personal grievances about other users\nRepeatedly post the same or similar content or otherwise impose an unreasonable or disproportionately large load on our infrastructure\nTake or cause to be taken any action that disrupts the normal flow of postings and dialogue on our Site (such as submitting an excessive number of messages – i.e. a flooding attack), or that otherwise negatively affects other users’ ability to use the Site and/or services; or\nUse automated means, including spiders, robots, crawlers, data mining tools, or the like to download data from our Site. Exception is made for Internet search engines (e.g., Google) and non-commercial public archives (e.g., archive.org) that comply with our Terms of Service.9. Limitation on Use of Company Directories\nThe information contained in any company directories that may be provided on the Site is provided for business lookup purposes and is not to be used for marketing or telemarketing applications. This information may not be copied or redistributed and is provided “AS IS” without warranty of any kind. In no event will we or our suppliers be liable in any way with regard to such information.10. Modifications to, or Discontinuations of, the Site\nWe reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Site, or any portion thereof, with or without notice. You agree that we will not be liable to you or to any third party for any modification, suspension or discontinuance of the Site or any portion thereof.11. Disclaimers\n‘\n\nThroughout our Site, we may have provided links and pointers to Internet sites maintained by third parties. Our linking to any such third-party sites does not imply an endorsement or sponsorship of such sites, or the information, products or services offered on or through the sites. In addition, neither we nor our parent or subsidiary companies nor any of our respective affiliates operate or control in any respect any information, products or services that such third parties may provide on or through the Site or on websites linked to by us on the Site.\n\nTHE INFORMATION, PRODUCTS AND SERVICES OFFERED ON OR THROUGH THE SITE AND ANY THIRD-PARTY SITES ARE PROVIDED “AS IS” AND WITHOUT WARRANTIES OF ANY KIND EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WE DO NOT WARRANT THAT THE SITE OR ANY OF ITS FUNCTIONS WILL BE UNINTERRUPTED OR ERROR-FREE, THAT DEFECTS WILL BE CORRECTED, OR THAT ANY PART OF THE SITE, INCLUDING BULLETIN BOARDS, OR THE SERVERS THAT MAKE IT AVAILABLE, ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.\n\nWE DO NOT WARRANT OR MAKE ANY REPRESENTATIONS REGARDING THE USE OR THE RESULTS OF THE USE OF THE SITE OR MATERIALS ON THE SITE OR ON THIRD-PARTY SITES IN TERMS OF THEIR CORRECTNESS, ACCURACY, TIMELINESS, RELIABILITY OR OTHERWISE.\n\nYou must provide and are solely responsible for all hardware and/or software necessary to access the Site. You assume the entire cost of and responsibility for any damage to, and all necessary maintenance, repair or correction of, that hardware and/or software.\n\nThe Site is provided for informational purposes only, and is not intended for trading or investing purposes or for commercial use. Stock and mutual fund quotes, and related financial news stories may be delayed at least 20 minutes, as may be required by the stock exchanges and/or the financial information services. The Site should not be used in any high risk activities where damage or injury to persons, property, environment, finances or business may result if an error occurs. You expressly assume all risk for such use.\n\nYour interactions with companies, organizations and/or individuals found on or through our Site, including any purchases, transactions, or other dealings, and any terms, conditions, warranties or representations associated with such dealings, are solely between you and such companies, organizations and/or individuals. You agree that we will not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings. You also agree that, if there is a dispute between users of the Site, or between a user and any third party, we are under no obligation to become involved, and you agree to release us and our affiliates from any claims, demands and damages of every kind or nature, known or unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way related to such dispute and/or our Site.12.Limitation of Liability\nUNDER NO CIRCUMSTANCES, INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE, WILL WE OR OUR SUBSIDIARIES, PARENT COMPANIES OR AFFILIATES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES THAT RESULT FROM THE USE OF, OR THE INABILITY TO USE, THE SITE, INCLUDING ITS MATERIALS, PRODUCTS, OR SERVICES, OR THIRD-PARTY MATERIALS, PRODUCTS, OR SERVICES MADE AVAILABLE THROUGH THE SITE, EVEN IF WE ARE ADVISED BEFOREHAND OF THE POSSIBILITY OF SUCH DAMAGES. (BECAUSE SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN CATEGORIES OF DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU. IN SUCH STATES, OUR LIABILITY AND THE LIABILITY OF OUR SUBSIDIARIES, PARENT COMPANIES AND AFFILIATES, IS LIMITED TO THE FULLEST EXTENT PERMITTED BY SUCH STATE LAW.) YOU SPECIFICALLY ACKNOWLEDGE AND AGREE THAT WE ARE NOT LIABLE FOR ANY DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF ANY USER. IF YOU ARE DISSATISFIED WITH THE SITE, OR ANY MATERIALS, PRODUCTS, OR SERVICES ON THE SITE, OR WITH ANY OF THE SITE’S TERMS AND CONDITIONS, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SITE.13.Indemnification\nYou agree to indemnify and hold harmless us, our affiliates, and each of our and their respective directors, officers, managers, employees, shareholders, agents, representatives and licensors, from and against any and all losses, expenses, damages and costs, including reasonable attorneys’ fees, that arise out of your use of the Site, violation of these Terms of Service by you or any other person using your account, or your violation of any rights of another. We reserve the right to take over the exclusive defense of any claim for which we are entitled to indemnification under this section. In such event, you agree to provide us with such cooperation as is reasonably requested by us.14.Suspension and Termination of Access\nYou agree that, in our sole discretion, we may suspend or terminate your password, account (or any part thereof) or use of the Site, or any part of the Site, and remove and discard any materials that you submit to the Site, at any time, for any reason, without notice. You agree that we will not be liable to you or any third party for any suspension or termination of your password, account or use of the Site or any part thereof, or any removal of any materials that you have submitted to the Site. In the event that we suspend or terminate your access to and/or use of the Site, you will continue to be bound by the Terms of Service that were in effect as of the date of your suspension or termination.15.Notice of Copyright Infringement\nIf you are a copyright owner who believes your copyrighted material has been reproduced, posted or distributed via the Site in a manner that constitutes copyright infringement, please inform us by e-mail to Email: care@hellodoctor.asia. Please include the following information in your written notice: (1) a detailed description of the copyrighted work that is allegedly infringed upon; (2) a description of the location of the allegedly infringing material on the Site; (3) your contact information, including your address, telephone number, and, if available, e-mail address; (4) a statement by you indicating that you have a good-faith belief that the allegedly infringing use is not authorized by the copyright owner, its agent, or the law; (5) a statement by you, made under penalty of perjury, affirming that the information in your notice is accurate and that you are authorized to act on the copyright owner’s behalf; and (6) an electronic or physical signature of the copyright owner or someone authorized on the owner’s behalf to assert infringement of copyright and to submit the statement. Please note that the contact information provided in this paragraph is for suspected copyright infringement only. Contact information for other matters is provided elsewhere in these Terms of Service or on the Site.16.Other\nThese Terms of Service, together with the GoTelecare Privacy Policy, which is incorporated herein by this reference, constitutes the entire agreement between us and you with respect to the subject matter hereof and supersedes all previous and contemporaneous agreements, proposals and communications, whether written or oral. You also may be subject to additional terms and conditions that may apply when you use the products or services of a third party that are provided through the Site. In the event of any conflict between any such third-party terms and conditions and these Terms of Service, these Terms of Service will govern. This agreement will be governed by and construed in accordance with the laws of the State of New York, without giving effect to any principles of conflicts of law.\n\nThis agreement is personal to you, and you may not assign it to anyone. If any provision of this agreement is found to be unlawful, void, or for any reason unenforceable, then that provision will be deemed severable from this agreement and will not affect the validity and enforceability of any remaining provisions. These Terms of Service are not intended to benefit any third party, and do not create any third party beneficiaries. Accordingly, these Terms of Service may only be invoked or enforced by you or us. You agree that regardless of any statute or law to the contrary, any claim or cause of action that you may have arising out of or related to use of the Site or these Terms of Service must be filed by you within one year after such claim or cause of action arose or be forever barred.17.Summary Notice of HIPAA Privacy Practices\nGoTelecare arranges for the provision of all physician services you may receive through your GoTelecare membership. These physicians and allied healthcare professionals are independent practitioners who advise, diagnose, and prescribe at their own discretion subject to their individual state regulations. GoTelecare does not directly provide or arrange for care, nor does it knowingly maintain any medical information about you for purposes of providing or facilitating care.\n\nTHIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED BY HEALTHNATION AND HOW YOU CAN GET ACCESS TO THIS INFORMATION.\n\nThe Health Insurance Portability & Accountability Act of 1996 (HIPAA) is a federal program that requires that all medical records and other individually identifiable health information used or disclosed by GoTelecare in any form, whether electronically, on paper, or orally, are kept properly confidential. This Act gives you, the Patient, significant new rights to understand and control how your health information is used. HIPAA provides penalties for covered entities that misuse personal health information.\n\nGoTelecare has prepared this “Summary Notice of HIPAA Privacy Practices” to explain how it is required to maintain the privacy of your health information and how it may use and disclose your health information. A Notice of HIPAA Privacy Practices containing a more complete description of the uses and disclosures of your health information is available to you upon request.\n\nGoTelecare may use and disclose your medical records for each of the following purposes: treatment, payment, and health care operations.\n\nTREATMENT means providing, coordinating, or managing health care and related services by one or more health care providers\nPAYMENT means such activities as obtaining payment or reimbursement for services, billing or collection activities and utilization review.\nHEALTH CARE OPERATIONS include managing your Electronic Medical Record to facilitate diagnostic medical consultations with participating physicians, as well as conducting quality assessment and improvement activities, auditing functions, cost-management analysis and customer service.\nGoTelecare may also create and distribute de-identified health information by removing all references to individually identifiable information.\n\nGoTelecare may contact you to provide information about our services or other health-related services that may be of interest to you.\n\nAny other uses and disclosures will be made only with your written authorization. You may revoke such authorization in writing and GoTelecare is required to honor and abide by that written request, except to the extent that it has already taken actions relying on your authorization.\n\nYou have the following rights with respect to your protected health information, which you can exercise by presenting a written request addressed to the attention of the GoTelecare Compliance Officer, at the address above.\n\nYou have the right to ask for restrictions on the ways GoTelecare uses and discloses your health information for treatment, payment and health care operations. You may also request that GoTelecare limit its disclosures to persons assisting your care. GoTelecare will consider your request, but is not required to accept it.\nYou have the right to request that you receive communications containing your protected health information from GoTelecare by alternative means or at alternative locations. For example, you may ask that GoTelecare only contact you at home or by mail.\nExcept under certain circumstances, you have the right to inspect and copy medical, billing and other records used to make decisions about you. If you ask for copies of this information, GoTelecare may charge you a nominal fee for copying and mailing.\nIf you believe that information in your records is incorrect or incomplete, you have the right to ask us or GoTelecare to correct the existing information or add missing information. Under certain circumstances, your request may be denied, such as when the information is accurate and complete.\nYou have a right to receive a list of certain instances when GoTelecare has used or disclosed your medical information. If you ask for this information from us or from GoTelecare more than once every twelve months, you may be charged a fee.For Provider Only\nRequests for registration as a Provider member are subject to credentialing and background check to standards set by and at the sole discretion of ATN.\n\nProvider registration requests will first be checked by ATN and then a registration number will be issued to you by email. You may then complete the remaining registration request process.\n\nAll accepted providers agree that ATN will provide healthcare facilities with credentialing information for selected providers.\n\nProviders will be subject to the Services Agreement provided by ATN upon registration completion and acceptance by ATN.For Remote Facility Only\nRequests for registration as a Remote Facility member are subject to verification and background check to standards set by and at the sole discretion of ATN.\n\nRemote Facility registration requests will first be checked by ATN and then a registration number will be issued to you by email. You may then complete the remaining registration request process.\n\nAll accepted Remote Facilities agree that ATN will provide credentialing information for selected providers, if required by remote facility.\n\nRemote Facilities will be subject to the Services Agreement provided by ATN upon registration completion and acceptance by ATN."
+  },
+  "@consultantFee": {
+    "consultantFee": "Consultation Fee 200 Tk"
+  },
+  "@consultantHome": {
+    "consultantHome": "Home Consultant"
+  },
+  "@contact": {
+    "userName": "Phone Number"
+  },
+  "@content": {
+    "content": "Mobile Number"
+  },
+  "@country": {
+    "country": "which country you want to go"
+  },
+  "@countryName": {
+    "countryName": "Country"
+  },
+  "@createAccount": {
+    "description": "Create an Account"
+  },
+  "@dailyMedicine": {
+    "dailyMedicine": "Your Daily medicine"
+  },
+  "@date": {
+    "date": "Date"
+  },
+  "@degreeName": {
+    "degreeName": "Degree"
+  },
+  "@describeProblem": {
+    "describeProblem": "Describe your Problem in Details"
+  },
+  "@details": {
+    "details": "Details Explanation"
+  },
+  "@detailsInformation": {
+    "detailsInformation": "Please give your details Information"
+  },
+  "@doSignIn": {
+    "signIn": "Sign In  "
+  },
+  "@dob": {
+    "userName": "Date of Birth"
+  },
+  "@doctorId": {
+    "doctorId": "Doctor ID"
+  },
+  "@doctorName": {
+    "doctorName": "Doctor Name"
+  },
+  "@doctorPermission": {
+    "doctorPermission": "Do Not Take Medicine Without advice of Doctor"
+  },
+  "@document": {
+    "document": "Document"
+  },
+  "@email": {
+    "email": "Email"
+  },
+  "@emailOrPhone": {
+    "emailOrPhone": "Email or Phone Number "
+  },
+  "@entryTime": {
+    "entryTime": "Entry Time"
+  },
+  "@expectedBenefit": {
+    "expectedBeneFit": "Improved access to medical care by enabling a patient to remain in his/her local healthcare site(i.e. home) while the physician consult and obtains test results at distant others site. \n  More efficient medical evaluation and management. \n Obtaining expertise of a specialist"
+  },
+  "@fee": {
+    "fee": "Fee"
+  },
+  "@female": {
+    "female": "Female"
+  },
+  "@filePath": {
+    "filePath": "File Path"
+  },
+  "@forgotPassword": {
+    "forgotPassword": "Forgot Password?"
+  },
+  "@friend": {
+    "friend": "Friend"
+  },
+  "@fullAddress": {
+    "fullAddress": "Give Your Details Address"
+  },
+  "@gallery": {
+    "gallery": "Gallery"
+  },
+  "@gender": {
+    "gender": "Select Gender"
+  },
+  "@health": {
+    "health": "Health Product"
+  },
+  "@healthPackage": {
+    "healthPackage": "Health\nPackage"
+  },
+  "@healthPackageMessage": {
+    "healthPackageMessage": "To describe your problem in details for special health Package. as consider your request we recommend 3 hospital consider special doctor opinion and assumption of cost from our network 70 super specialized hospital, we inform you within 5 days. service fee 1000 Tk "
+  },
+  "@healthPackages": {
+    "healthPackages": "Health Package"
+  },
+  "@healthProduct": {
+    "healthProduct": "Health\nProduct"
+  },
+  "@helloDoctor": {
+    "helloDoctor": "Hello Doctor Asia"
+  },
+  "@helpLine": {
+    "helpLine": "Help Line"
+  },
+  "@home": {
+    "home": "Home "
+  },
+  "@homeCare": {
+    "homeCare": "Home care assistant 600 TK"
+  },
+  "@homeConsultant": {
+    "homeConsultant": "Home\nConsultant"
+  },
+  "@hospital": {
+    "hospital": "Write down the hospital name"
+  },
+  "@id": {
+    "id": "ID"
+  },
+  "@imageSource": {
+    "imageSource": "Image Source"
+  },
+  "@informedConsent": {
+    "informedConsent": "Delivering Telemedicine services involves the use of electronic communication to enable healthcare providers at different locations to share individual patient medical information for the purposes of improving patient care providers may include primary care practitioners, specialist, sub-specialist and/or other allied healthcare professionals.The information maybe used for diagnosis, therapy, follow- up and/or education, and may include any of the Following: \n Patient medical records\n Medical Images\n Medical test result\n live two-way audio and video, \n output data from medical devices and sound and video Files. \n Electronic System used will incorporate network and software confidentially of patient identification and imaging data and will include measures to safeguard the data and to ensure its integrity against intentional or unintentional corruption. Responsibilities for the patient care should remain with the patient's local clinician, if you have one, as does the patient's medical record "
+  },
+  "@institution": {
+    "institution": "Institution"
+  },
+  "@labTechnologist": {
+    "labTechnologist": "Lab Technologist 200 Tk"
+  },
+  "@livingCountry": {
+    "livingCountry": "Living Country"
+  },
+  "@logout": {
+    "logout": "Logout"
+  },
+  "@makeCall": {
+    "makeCall": "Make a Call"
+  },
+  "@male": {
+    "male": "Male"
+  },
+  "@medicalOfficer": {
+    "medicalOfficer": "Medical Officer 600 TK"
+  },
+  "@medicalRecord": {
+    "medicalRecord": "Medical\nRecord"
+  },
+  "@medicalRecords": {
+    "medicalRecords": "MedicalRecord"
+  },
+  "@medicineDelivery": {
+    "medicineDelivery": "Medicine\nDelivery"
+  },
+  "@mobile": {
+    "mobile": "Mobile Number"
+  },
+  "@mobileNumber": {
+    "mobileNumber": "Give Your Mobile Number"
+  },
+  "@month": {
+    "month": "Month"
+  },
+  "@myProfile": {
+    "myProfile": "My Profile"
+  },
+  "@newChat": {
+    "newChat": "Start new Chat"
+  },
+  "@newPassword": {
+    "newPassword": "New Password"
+  },
+  "@newRequest": {
+    "newRequest": "Start new Request"
+  },
+  "@newUser": {
+    "newUser": "Do not Have an Account"
+  },
+  "@next": {
+    "next": "Next"
+  },
+  "@noCallConsultant": {
+    "noCallConsultant": "Your Home has not any call Consultant"
+  },
+  "@notification": {
+    "notification": "Notification"
+  },
+  "@oldUser": {
+    "oldUser": "Already Have a Account"
+  },
+  "@orderMedicine": {
+    "orderMedicine": "Order Medicine"
+  },
+  "@orderNewMedicine": {
+    "orderNewMedicine": "Order New Medicine"
+  },
+  "@other": {
+    "other": "Others"
+  },
+  "@packageHistory": {
+    "packageHistory": "Package History"
+  },
+  "@page": {
+    "page": "Page Number"
+  },
+  "@parent": {
+    "parent": "Parents"
+  },
+  "@partner": {
+    "partner": "Partner Offer"
+  },
+  "@partnerOffer": {
+    "partnerOffer": "Partner\nOffer"
+  },
+  "@password": {
+    "password": "Password"
+  },
+  "@patientAge": {
+    "patientAge": "Patient Age"
+  },
+  "@patientConsent": {
+    "patientConsent": "Patient Consent To The Use of Telemedicine"
+  },
+  "@patientDetails": {
+    "patientDetails": "Details about patient"
+  },
+  "@patientId": {
+    "patientId": "Patient ID"
+  },
+  "@patientName": {
+    "patientName": "Patient Name"
+  },
+  "@patientPresentAddress": {
+    "patientPresentAddress": "Patient Present Address"
+  },
+  "@patientProblem": {
+    "patientProblem": "write the patient problem"
+  },
+  "@payment": {
+    "payment": "Payment"
+  },
+  "@paymentConfirmation": {
+    "paymentConfirmation": "Payment using card or mobile Banking"
+  },
+  "@physioTherapist": {
+    "physioTherapist": "PhysioTherapist 600 TK"
+  },
+  "@possibleRisk": {
+    "possibleRisk": "As with any medical procedure, there are potential risk associated with the use of telemedicine.These risks include but may not be limited to: in rare cases, the consultant may determine that the transmitted information is of inadequate quality. thus necessitating a face to face meeting with the patient, or at least a reschedule video consult. \n\n Delays in medical evaluation and treatment could occur due to deficiencies or failure of the equipment.\n In very rare instances, security protocols could fail, causing a breach or privacy of personal medical information.\n in rare cases, a lack of access to complete medical records may result in adverse drug interactions or allergic reactions or others judgment errors, By Checking the box associated with 'Informed consent' you acknowledge that you understand and agree with the following. \n I understand that the laws that protect privacy and the confidentiality of medical information also apply to telemedicine, and that no information obtained the use of telemedicine, which identifies me, will be disclosed to researcher with other entities without my consent.\n I Understand that i have the right to withhold or withdraw my consent to the use of telemedicine in the course of my care at any time, without affecting my right to future care or treatment.\n I Understand the alternatives to telemedicine consultation as they have been explained to me, and in choosing to participates in a telemedicine consultation, I understand that some parts of the exam, involving physical tests may be conducted by individuals physical test may be conducted by individuals at my  location or at a testing facility, at the direction of the consulting healthcare provider.\n I understand that telemedicine may involve electronic communication of my personal medical information to other medical practitioners who may be located in other areas, including out of state.\n I Understand that I may expect the anticipated benefits from the use of telemedicine in my care, but that no results can be guaranteed or assured. I Understand that my healthcare information may be shared with other individuals for scheduling and billing purposes. Others may also be present during the consultant other than my healthcare provider and consulting healthcare provider in order to operate video equipment. The above mentioned people will al maintain confidentiality of the information obtained, I further understand that i will be informed of their presence in the consultation and thus will have the right to request the following: \n (1) omit specific details of my medical history/physical examination that are personally sensitive to me. \n (2) ask non-medical personnel to leave the telemedicine examination room and/or \n(3) terminate the consultant at any time"
+  },
+  "@preference": {
+    "preference": " write about which country and which hospital you want to continue your treatment"
+  },
+  "@prescription": {
+    "prescription": "Prescription"
+  },
+  "@presentAddress": {
+    "presentAddress": "Present Address"
+  },
+  "@profile": {
+    "profile": "Profile"
+  },
+  "@profileSetting": {
+    "profileSetting": "Profile Setting"
+  },
+  "@publishDate": {
+    "publishDate": "Mobile Number"
+  },
+  "@publisher": {
+    "publisher": "Publisher"
+  },
+  "@questionAsk": {
+    "questionAsk": "Ask Question"
+  },
+  "@questionHistory": {
+    "questionHistory": "Question History"
+  },
+  "@recordType": {
+    "recordType": "Record Type"
+  },
+  "@registration": {
+    "registration": "Registration"
+  },
+  "@relation": {
+    "relation": "Relation"
+  },
+  "@report": {
+    "report": "MedicalRecord"
+  },
+  "@requestHistory": {
+    "requestHistory": "Request History"
+  },
+  "@requiredField": {
+    "requiredField": " The Field is Required"
+  },
+  "@risk": {
+    "risk": "Possible Risks"
+  },
+  "@save": {
+    "save": "Save"
+  },
+  "@saveAndCarryOn": {
+    "saveAndCarryOn": "Save and Carry on"
+  },
+  "@schedule": {
+    "schedule": " Selected Schedule"
+  },
+  "@scheduleHistory": {
+    "scheduleHistory": "Schedule History"
+  },
+  "@selectService": {
+    "selectService": "Select The Service"
+  },
+  "@selectSpeciality": {
+    "selectSpeciality": "Select the Speciality"
+  },
+  "@self": {
+    "self": "Self"
+  },
+  "@service": {
+    "service": "Which service you searching today"
+  },
+  "@singIn": {
+    "signIn": "Sign In "
+  },
+  "@singUp": {
+    "signUp": "Start "
+  },
+  "@specialistId": {
+    "specialistId": "Specialist ID"
+  },
+  "@speciality": {
+    "speciality": "Speciality"
+  },
+  "@specialityId": {
+    "specialityId": "Speciality Id "
+  },
+  "@startNewSchedule": {
+    "startNewSchedule": "Start new Schedule"
+  },
+  "@status": {
+    "status": "Status"
+  },
+  "@terms": {
+    "terms": "Terms and Condition"
+  },
+  "@termsCondition": {
+    "TermsCondition": "Terms & Condition"
+  },
+  "@time": {
+    "time": "Time"
+  },
+  "@unavailableService": {
+    "unavailableService": "Due to Covid-19 Pandemic situation The service is not available at that moment. if necessary phone oh help line.(phone number 0170-8500125, 10 a.m to 5.00 p.m"
+  },
+  "@uploadPrescription": {
+    "uploadPrescription": "Upload Prescription"
+  },
+  "@uploadRecord": {
+    "uploadRecord": "Upload Record"
+  },
+  "@userFullName": {
+    "userFullName": "Your Full Name"
+  },
+  "@userGuide": {
+    "userGuide": "GuideLines For User"
+  },
+  "@userName": {
+    "userName": "User Name"
+  },
+  "@videoConsultant": {
+    "videoConsultant": "Video\nConsultant"
+  },
+  "@warningMessage": {
+    "warningMessage": "It is not applicable for emergency service.for chat consultant\ndescribe your problem details. after confirm\n the payment within 60 minutes a verified doctor join \n chat consultant. it's available from 9:00 am to 9:00 p.m\n the fee of chat consultant is 150 tk"
+  },
+  "@welcome": {
+    "welcome": "Welcome To Hello Doctor Asia  "
+  },
+  "@welcomeMessage": {
+    "welcomeMessage": "Welcome "
+  },
+  "@wife": {
+    "wife": "Wife"
+  },
+  "@wordLimit": {
+    "wordLimit": "write within 200 words, minimum 20 words"
+  },
+  "@year": {
+    "year": "Year"
+  },
+  "@freeConsultant":{
+    "freeConsultant": "Free Consultant"
+  },
+  "@createSchedule": {
+    "createSchedule": "Create new schedule"
+  },
+  "@accountManagement": {
+    "accountManagement": "Account Management"
+
+  },
+  "accept": "Ok",
+  "addMedicalRecord": "Add Medical Record",
+  "addNewRequest": "Add New Request",
+  "addPrescription": "Add Prescription",
+  "address": "address",
+  "age": "Age",
+  "alertMessage": "The service is not applicable for emergency service. This service is provide within 7:0 a.m to 9:00 p.m",
+  "alternativeContact": " Alternative Phone Number",
+  "appVideo": "App Video",
+  "article": "Article",
+  "articleCategory": "Article Category",
+  "articleName": "Article Name",
+  "articleUrl": "Article Url",
+  "askQuestion": "Ask\nQuestion",
+  "attachImage": "Attach Image",
+  "availableTime": "Available Time",
+  "basicInformation": "Basic Information about Patient",
+  "benefit": "Expected Benefit",
+  "cPassword": "Confirm Password",
+  "callTime": "From 9:00 a.m Morning to Evening 7:00 p.m",
+  "camera": "Camera",
+  "cancel": "cancel",
+  "category": "Category",
+  "change": "Change Password",
+  "changeMobileNumber": "Change Mobile Number",
+  "changePassword": "Change Password",
+  "chatConsultant": "Chat\nConsultant",
+  "chatRequest": "Chat Request",
+  "children": "Children",
+  "condition": "Agree to Continue",
+  "consent": "Informed Consent of Service",
+  "consentList": "I have read and understand the information provided above regarding telemedicine, have discussed it with my physician or such assistants as may be designated and all of my questions have been answer to my satisfaction.\n I have read this document carefully, and understand the risks and benefits of the teleconferencing consultation and have had my questions regarding the procedure explained and i hereby give my informed consent to participate in a telemedicine visit under the terms described herein. By Checking the box containing 'INFORMED CONSENT FOR TELEMEDICINE SERVICES' I hereby state that I have read, understand and agree to the terms of this document.PLEASE READ THESE TERMS OF SERVICE CAREFULLY. These terms of service (“Terms of Service”) apply to and govern your access to and use of any website (“Site”) owned or operated by Go Telecare, Inc. (“GoTelecare”, “we” or “us”). By using the “Site”, you agree to be bound by these Terms of Service and to use the Site in accordance with these Terms of Service, our Privacy Policy, and any additional terms and conditions that are referenced herein or that otherwise may apply to specific sections of the Site, or to products and services that we make available to you through the Site (all of which are deemed part of these Terms of Service). Accessing the Site in any manner, whether automated or otherwise, constitutes use of the Site and your agreement to be bound by these Terms of Service.We reserve the right to change these Terms of Service or to impose new conditions on use of the Site, from time to time, in which case we will post the revised Terms of Service on the Site and update the “Last Updated” date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Terms of Service, as modified. We also reserve the right to deny access to the Site or any features of the Site to anyone who violates these Terms of Service or who, in our sole judgment, interferes with the ability of others to enjoy our Site or infringes on the rights of others.1.Services Provided\nGoTelecare provides internet healthcare resources to connect individuals with participating physicians, licensed therapists and other licensed health care practitioners (the “Providers”) in real time, via live video conferencing, telephone and/or secure messaging for the diagnosis and treatment of patients over the Internet, as well as providing other types of administrative services and information (“Services”). All of the participating Providers are independent contractors. Providers may record video conference consultations and GoTelecare may record telephone calls for quality purposes. GoTelecare itself does not provide any medical or Provider services.2.The Site and all the materials available on the Site are the property of GoTelecare and/or our affiliates or licensors, and are protected by copyright, trademark, and other intellectual property laws. The Site is provided solely for your personal noncommercial use. You may not use the Site or the materials available on the Site in a manner that constitutes an infringement of our rights or that has not been authorized by us. More specifically, unless explicitly authorized in these Terms of Service or by the owner of the materials, you may not modify, copy, reproduce, republish, upload, post, transmit, translate, sell, create derivative works, exploit, or distribute in any manner or medium (including by email or other electronic means) any material from the Site. You may, however, from time to time, download and/or print one copy of individual pages of the Site for your personal, non-commercial use, provided that you keep intact all copyright and other proprietary notices. Information about requesting permission to reproduce or distribute materials from the Site can be obtained by contacting us as follows:\n\nEmail: care@hellodoctor.asia. 3.Our Right to Use Materials You Submit or Post\nWhen you submit or post any material (including any photos or videos) via the Site, you grant us, and anyone authorized by us, a royalty-free, perpetual, irrevocable, non-exclusive, unrestricted, worldwide license to use, copy, modify, transmit, sell, exploit, create derivative works from, distribute, and/or publicly perform or display such material, in whole or in part, in any manner or medium (whether now known or hereafter developed), for any purpose that we choose. The foregoing grant includes the right to exploit any proprietary rights in such posting or submission, including, but not limited to, rights under copyright, trademark or patent laws that exist in any relevant jurisdiction. Also, in connection with the exercise of these rights, you grant us, and anyone authorized by us, the right to identify you as the author of any of your postings or submissions by name, e-mail address or screen name, as we deem appropriate. You understand that the technical processing and transmission of the Site, including content submitted by you, may involve transmissions over various networks, and may involve changes to the content to conform and adapt it to technical requirements of connecting networks or devices. You will not receive any compensation of any kind for the use of any materials submitted by you.4. Limitations on Linking and Framing\nYou are free to establish a hypertext link to our Site so long as the link does not state or imply any sponsorship of your website or service by GoTelecare, or GoTelecare.com. However, you may not, without our prior written permission, frame or inline link any of the content of our Site, or incorporate into another website or other service any of our material, content or intellectual property.5. n order to access certain features of our Site, we may ask you to provide certain demographic information including your gender, year of birth, address, and payment information. In addition, if you elect to sign up for particular features of the Site, such as discussion forums, blogs, photo- and video-sharing pages or social networking features, you may also be asked to register with us on a form provided for registration purposes, and we may require you to provide personally identifiable information such as your name and e-mail address. You agree to provide true, accurate, current and complete information about yourself as prompted by the Site’s registration form. If we have reasonable grounds to suspect that such information is untrue, inaccurate, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Site (or any portion thereof). Our use of any information you provide to us as part of the registration process is governed by the terms of our Privacy Policy.6. Responsibility for Your Username and Password\nIn order to use certain features of our Site, you may need a username and password, which you will receive and/or create through the Site’s registration process. We reserve the right to reject or terminate the use of any username that we deem in our sole judgment offensive or inappropriate. In addition, we also reserve the right to terminate the use of any username or account, or to deny access to the Site or any features of the Site, to anyone who violates these Terms of Service or who, in our sole judgment, interferes with the ability of others to enjoy our website or infringes the rights of others. You are responsible for maintaining the confidentiality of your password and account, and you are responsible for all activities (whether by you or by others) that occur under your password or account. You agree to notify us immediately of any unauthorized use of your password or account or any other breach of security, and to ensure that you exit from your account at the end of each session. We cannot and will not be liable for any loss or damage arising from your failure to protect your password or account information. 7. Responsibility for User-Provided Content\nThe Site may include a variety of features, such as discussion forums, blogs, photo- and video-sharing pages, e-mail services and social networking features that allow feedback to us and allow users to interact with each other on the Site or to post content and materials for display on the Site. The Site also may include other features, such as personalized home pages and e-mail services that allow users to communicate with third parties. By accessing and using any such features, you represent and agree: (a) that you have read and agree to abide by our Community Rules as set forth below in Section 8; (b) that you are the owner of any materials you post or submit, or are making your posting or submission with the express consent of the owner of the materials; (c) that you are making your posting or submission with the express consent of anyone pictured in any materials you post or submit, (d) that you are 13 years of age or older; (e) that the materials will not violate the rights of, or cause injury to, any person or entity; and (f) that you will indemnify and hold harmless GoTelecare, our affiliates, and each of our and their respective directors, officers, managers, employees, shareholders, agents, representatives and licensors, from and against any liability of any nature arising out of or related to any content or materials displayed on or submitted via the Site by you or by others using your username and password. You also grant us a license to use the materials you post or submit via such features as described in Sections 2-4 above.\n\nResponsibility for what is posted on discussion forums, blogs, photo- and video-sharing pages, and other areas on the Site through which users can supply information or materials, or sent via any e-mail services that are made available via the Site, lies with each user. You alone are responsible for the materials you post or send. We do not control the messages, information or files that you or others may transmit, post or otherwise provide on or through the Site.\nYou understand that we have no obligation to monitor any discussion forums, blogs, photo- or video-sharing pages, or other areas of the Site through which users can supply information or materials. However, we reserve the right at all times, in our sole discretion, to screen content submitted by users and to edit, move, delete, and/or refuse to accept any content that in our judgment violates these Terms of Service or is otherwise unacceptable or inappropriate, whether for legal or other reasons.\n\nYou acknowledge and agree that we may preserve content and materials submitted by you and may also disclose such content and materials if required to do so by law or if, in our business judgment, such preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce these Terms of Service; (c) respond to claims that any content or materials submitted by you violate the rights of third parties; or (d) protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.8. Community Rules The Site may include a variety of features, such as discussion forums, blogs, photo- and video-sharing pages, e-mail services and social networking features that allow feedback to us and allow users to interact with each other on the Site and to post content and materials for display on the Site. The Site also may include other features, such as personalized home pages and e-mail services that allow users to communicate with third parties. By accessing and using any such features, you represent and agree that you will not:\n\nRestrict or inhibit any other user from using and enjoying the Site\nUse the Site to impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity\nInterfere with or disrupt any servers or networks used to provide the Site or its features, or disobey any requirements, procedures, policies or regulations of the networks we use to provide the Site\nUse the Site to instigate or encourage others to commit illegal activities or cause injury or property damage to any person\nGain unauthorized access to the Site, or any account, computer system, or network connected to the Site, by means such as hacking, password mining or other illicit means\nObtain or attempt to obtain any materials or information through any means not intentionally made available through the Site\nUse the Site to post or transmit any unlawful, threatening, abusive, libelous, defamatory, obscene, vulgar, pornographic, profane or indecent information of any kind, including without limitation any transmissions constituting or encouraging conduct that would constitute a criminal offense, give rise to civil liability or otherwise violate any local, state, national or international law\nUse the Site to post or transmit any information, software or other material that violates or infringes upon the rights of others, including material that is an invasion of privacy or publicity rights or that is protected by copyright, trademark or other proprietary right, or derivative works with respect thereto, without first obtaining permission from the owner or rights holder\nUse the Site to post or transmit any information, software or other material that contains a virus or other harmful component\nUse the Site to post, transmit or in any way exploit any information, software or other material for commercial purposes, or that contains advertising\nUse the Site to advertise or solicit to anyone to buy or sell products or services, or to make donations of any kind, without our express written approval\nGather for marketing purposes any e-mail addresses or other personal information that has been posted by other users of the Site\nContact anyone who has asked not to be contacted\nEngage in personal attacks, harass or threaten, question the motives behind others’ posts or comments, deliberately inflame or disrupt the conversation, or air personal grievances about other users\nRepeatedly post the same or similar content or otherwise impose an unreasonable or disproportionately large load on our infrastructure\nTake or cause to be taken any action that disrupts the normal flow of postings and dialogue on our Site (such as submitting an excessive number of messages – i.e. a flooding attack), or that otherwise negatively affects other users’ ability to use the Site and/or services; or\nUse automated means, including spiders, robots, crawlers, data mining tools, or the like to download data from our Site. Exception is made for Internet search engines (e.g., Google) and non-commercial public archives (e.g., archive.org) that comply with our Terms of Service.9. Limitation on Use of Company Directories\nThe information contained in any company directories that may be provided on the Site is provided for business lookup purposes and is not to be used for marketing or telemarketing applications. This information may not be copied or redistributed and is provided “AS IS” without warranty of any kind. In no event will we or our suppliers be liable in any way with regard to such information.10. Modifications to, or Discontinuations of, the Site\nWe reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Site, or any portion thereof, with or without notice. You agree that we will not be liable to you or to any third party for any modification, suspension or discontinuance of the Site or any portion thereof.11. Disclaimers\n‘\n\nThroughout our Site, we may have provided links and pointers to Internet sites maintained by third parties. Our linking to any such third-party sites does not imply an endorsement or sponsorship of such sites, or the information, products or services offered on or through the sites. In addition, neither we nor our parent or subsidiary companies nor any of our respective affiliates operate or control in any respect any information, products or services that such third parties may provide on or through the Site or on websites linked to by us on the Site.\n\nTHE INFORMATION, PRODUCTS AND SERVICES OFFERED ON OR THROUGH THE SITE AND ANY THIRD-PARTY SITES ARE PROVIDED “AS IS” AND WITHOUT WARRANTIES OF ANY KIND EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WE DO NOT WARRANT THAT THE SITE OR ANY OF ITS FUNCTIONS WILL BE UNINTERRUPTED OR ERROR-FREE, THAT DEFECTS WILL BE CORRECTED, OR THAT ANY PART OF THE SITE, INCLUDING BULLETIN BOARDS, OR THE SERVERS THAT MAKE IT AVAILABLE, ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.\n\nWE DO NOT WARRANT OR MAKE ANY REPRESENTATIONS REGARDING THE USE OR THE RESULTS OF THE USE OF THE SITE OR MATERIALS ON THE SITE OR ON THIRD-PARTY SITES IN TERMS OF THEIR CORRECTNESS, ACCURACY, TIMELINESS, RELIABILITY OR OTHERWISE.\n\nYou must provide and are solely responsible for all hardware and/or software necessary to access the Site. You assume the entire cost of and responsibility for any damage to, and all necessary maintenance, repair or correction of, that hardware and/or software.\n\nThe Site is provided for informational purposes only, and is not intended for trading or investing purposes or for commercial use. Stock and mutual fund quotes, and related financial news stories may be delayed at least 20 minutes, as may be required by the stock exchanges and/or the financial information services. The Site should not be used in any high risk activities where damage or injury to persons, property, environment, finances or business may result if an error occurs. You expressly assume all risk for such use.\n\nYour interactions with companies, organizations and/or individuals found on or through our Site, including any purchases, transactions, or other dealings, and any terms, conditions, warranties or representations associated with such dealings, are solely between you and such companies, organizations and/or individuals. You agree that we will not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings. You also agree that, if there is a dispute between users of the Site, or between a user and any third party, we are under no obligation to become involved, and you agree to release us and our affiliates from any claims, demands and damages of every kind or nature, known or unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way related to such dispute and/or our Site.12.Limitation of Liability\nUNDER NO CIRCUMSTANCES, INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE, WILL WE OR OUR SUBSIDIARIES, PARENT COMPANIES OR AFFILIATES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES THAT RESULT FROM THE USE OF, OR THE INABILITY TO USE, THE SITE, INCLUDING ITS MATERIALS, PRODUCTS, OR SERVICES, OR THIRD-PARTY MATERIALS, PRODUCTS, OR SERVICES MADE AVAILABLE THROUGH THE SITE, EVEN IF WE ARE ADVISED BEFOREHAND OF THE POSSIBILITY OF SUCH DAMAGES. (BECAUSE SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN CATEGORIES OF DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU. IN SUCH STATES, OUR LIABILITY AND THE LIABILITY OF OUR SUBSIDIARIES, PARENT COMPANIES AND AFFILIATES, IS LIMITED TO THE FULLEST EXTENT PERMITTED BY SUCH STATE LAW.) YOU SPECIFICALLY ACKNOWLEDGE AND AGREE THAT WE ARE NOT LIABLE FOR ANY DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF ANY USER. IF YOU ARE DISSATISFIED WITH THE SITE, OR ANY MATERIALS, PRODUCTS, OR SERVICES ON THE SITE, OR WITH ANY OF THE SITE’S TERMS AND CONDITIONS, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SITE.13.Indemnification\nYou agree to indemnify and hold harmless us, our affiliates, and each of our and their respective directors, officers, managers, employees, shareholders, agents, representatives and licensors, from and against any and all losses, expenses, damages and costs, including reasonable attorneys’ fees, that arise out of your use of the Site, violation of these Terms of Service by you or any other person using your account, or your violation of any rights of another. We reserve the right to take over the exclusive defense of any claim for which we are entitled to indemnification under this section. In such event, you agree to provide us with such cooperation as is reasonably requested by us.14.Suspension and Termination of Access\nYou agree that, in our sole discretion, we may suspend or terminate your password, account (or any part thereof) or use of the Site, or any part of the Site, and remove and discard any materials that you submit to the Site, at any time, for any reason, without notice. You agree that we will not be liable to you or any third party for any suspension or termination of your password, account or use of the Site or any part thereof, or any removal of any materials that you have submitted to the Site. In the event that we suspend or terminate your access to and/or use of the Site, you will continue to be bound by the Terms of Service that were in effect as of the date of your suspension or termination.15.Notice of Copyright Infringement\nIf you are a copyright owner who believes your copyrighted material has been reproduced, posted or distributed via the Site in a manner that constitutes copyright infringement, please inform us by e-mail to Email: care@hellodoctor.asia. Please include the following information in your written notice: (1) a detailed description of the copyrighted work that is allegedly infringed upon; (2) a description of the location of the allegedly infringing material on the Site; (3) your contact information, including your address, telephone number, and, if available, e-mail address; (4) a statement by you indicating that you have a good-faith belief that the allegedly infringing use is not authorized by the copyright owner, its agent, or the law; (5) a statement by you, made under penalty of perjury, affirming that the information in your notice is accurate and that you are authorized to act on the copyright owner’s behalf; and (6) an electronic or physical signature of the copyright owner or someone authorized on the owner’s behalf to assert infringement of copyright and to submit the statement. Please note that the contact information provided in this paragraph is for suspected copyright infringement only. Contact information for other matters is provided elsewhere in these Terms of Service or on the Site.16.Other\nThese Terms of Service, together with the GoTelecare Privacy Policy, which is incorporated herein by this reference, constitutes the entire agreement between us and you with respect to the subject matter hereof and supersedes all previous and contemporaneous agreements, proposals and communications, whether written or oral. You also may be subject to additional terms and conditions that may apply when you use the products or services of a third party that are provided through the Site. In the event of any conflict between any such third-party terms and conditions and these Terms of Service, these Terms of Service will govern. This agreement will be governed by and construed in accordance with the laws of the State of New York, without giving effect to any principles of conflicts of law.\n\nThis agreement is personal to you, and you may not assign it to anyone. If any provision of this agreement is found to be unlawful, void, or for any reason unenforceable, then that provision will be deemed severable from this agreement and will not affect the validity and enforceability of any remaining provisions. These Terms of Service are not intended to benefit any third party, and do not create any third party beneficiaries. Accordingly, these Terms of Service may only be invoked or enforced by you or us. You agree that regardless of any statute or law to the contrary, any claim or cause of action that you may have arising out of or related to use of the Site or these Terms of Service must be filed by you within one year after such claim or cause of action arose or be forever barred.17.Summary Notice of HIPAA Privacy Practices\nGoTelecare arranges for the provision of all physician services you may receive through your GoTelecare membership. These physicians and allied healthcare professionals are independent practitioners who advise, diagnose, and prescribe at their own discretion subject to their individual state regulations. GoTelecare does not directly provide or arrange for care, nor does it knowingly maintain any medical information about you for purposes of providing or facilitating care.\n\nTHIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED BY HEALTHNATION AND HOW YOU CAN GET ACCESS TO THIS INFORMATION.\n\nThe Health Insurance Portability & Accountability Act of 1996 (HIPAA) is a federal program that requires that all medical records and other individually identifiable health information used or disclosed by GoTelecare in any form, whether electronically, on paper, or orally, are kept properly confidential. This Act gives you, the Patient, significant new rights to understand and control how your health information is used. HIPAA provides penalties for covered entities that misuse personal health information.\n\nGoTelecare has prepared this “Summary Notice of HIPAA Privacy Practices” to explain how it is required to maintain the privacy of your health information and how it may use and disclose your health information. A Notice of HIPAA Privacy Practices containing a more complete description of the uses and disclosures of your health information is available to you upon request.\n\nGoTelecare may use and disclose your medical records for each of the following purposes: treatment, payment, and health care operations.\n\nTREATMENT means providing, coordinating, or managing health care and related services by one or more health care providers\nPAYMENT means such activities as obtaining payment or reimbursement for services, billing or collection activities and utilization review.\nHEALTH CARE OPERATIONS include managing your Electronic Medical Record to facilitate diagnostic medical consultations with participating physicians, as well as conducting quality assessment and improvement activities, auditing functions, cost-management analysis and customer service.\nGoTelecare may also create and distribute de-identified health information by removing all references to individually identifiable information.\n\nGoTelecare may contact you to provide information about our services or other health-related services that may be of interest to you.\n\nAny other uses and disclosures will be made only with your written authorization. You may revoke such authorization in writing and GoTelecare is required to honor and abide by that written request, except to the extent that it has already taken actions relying on your authorization.\n\nYou have the following rights with respect to your protected health information, which you can exercise by presenting a written request addressed to the attention of the GoTelecare Compliance Officer, at the address above.\n\nYou have the right to ask for restrictions on the ways GoTelecare uses and discloses your health information for treatment, payment and health care operations. You may also request that GoTelecare limit its disclosures to persons assisting your care. GoTelecare will consider your request, but is not required to accept it.\nYou have the right to request that you receive communications containing your protected health information from GoTelecare by alternative means or at alternative locations. For example, you may ask that GoTelecare only contact you at home or by mail.\nExcept under certain circumstances, you have the right to inspect and copy medical, billing and other records used to make decisions about you. If you ask for copies of this information, GoTelecare may charge you a nominal fee for copying and mailing.\nIf you believe that information in your records is incorrect or incomplete, you have the right to ask us or GoTelecare to correct the existing information or add missing information. Under certain circumstances, your request may be denied, such as when the information is accurate and complete.\nYou have a right to receive a list of certain instances when GoTelecare has used or disclosed your medical information. If you ask for this information from us or from GoTelecare more than once every twelve months, you may be charged a fee.For Provider Only\nRequests for registration as a Provider member are subject to credentialing and background check to standards set by and at the sole discretion of ATN.\n\nProvider registration requests will first be checked by ATN and then a registration number will be issued to you by email. You may then complete the remaining registration request process.\n\nAll accepted providers agree that ATN will provide healthcare facilities with credentialing information for selected providers.\n\nProviders will be subject to the Services Agreement provided by ATN upon registration completion and acceptance by ATN.For Remote Facility Only\nRequests for registration as a Remote Facility member are subject to verification and background check to standards set by and at the sole discretion of ATN.\n\nRemote Facility registration requests will first be checked by ATN and then a registration number will be issued to you by email. You may then complete the remaining registration request process.\n\nAll accepted Remote Facilities agree that ATN will provide credentialing information for selected providers, if required by remote facility.\n\nRemote Facilities will be subject to the Services Agreement provided by ATN upon registration completion and acceptance by ATN.",
+  "consultantFee": "Consultation Fee 200 Tk",
+  "consultantHome": "Home Consultant",
+  "contact": "Phone Number",
+  "content": "Content",
+  "country": "which country you want to go",
+  "countryName": "Country",
+  "createAccount": "Create an Account",
+  "dailyMedicine": "Your Daily Medicine",
+  "date": "Date",
+  "degreeName": "Degree",
+  "describeProblem": "Describe your Problem in Details",
+  "details": " Details Explanation",
+  "detailsInformation": "Please give your details Information ",
+  "doSignIn": "Sign In ",
+  "dob": "Date of Birth",
+  "doctorId": "Doctor ID",
+  "doctorName": "Doctor Name",
+  "doctorPermission": "Do Not Take Medicine Without\nadvice of Doctor",
+  "document": "Document",
+  "email": "email",
+  "emailOrPhone": "Email or phone Number",
+  "entryTime": "Entry Time",
+  "expectedBeneFit": "Improved access to medical care by enabling a patient to remain in his/her local healthcare site(i.e. home) while the physician consult and obtains test results at distant others site. \n  More efficient medical evaluation and management. \n Obtaining expertise of a specialist",
+  "fee": "Fee",
+  "female": "Female",
+  "filePath": "File Path",
+  "forgotPassword": "Forgot Password?",
+  "friend": "Friend",
+  "fullAddress": "Give Your Details Address",
+  "gallery": "Gallery",
+  "gender": "Select Gender",
+  "health": "Health Product",
+  "healthPackage": "Health\nPackage",
+  "healthPackageMessage": "To describe your problem in details for special health Package. as consider your request we recommend 3 hospital consider special doctor opinion and assumption of cost from our network 70 super specialized hospital, we inform you within 5 days. service fee 1000 Tk ",
+  "healthPackages": "Health Package",
+  "healthProduct": "Health\nProduct",
+  "helloDoctor": "Hello Doctor Asia",
+  "helpLine": "Help Line",
+  "home": "Home",
+  "homeCare": "Home care assistant 600 Tk",
+  "homeConsultant": "Home\nConsultant",
+  "hospital": "write down the hospital name",
+  "id": "ID",
+  "imageSource": "Image Source",
+  "informedConsent": "Delivering Telemedicine services involves the use of electronic communication to enable healthcare providers at different locations to share individual patient medical information for the purposes of improving patient care providers may include primary care practitioners, specialist, sub-specialist and/or other allied healthcare professionals.The information maybe used for diagnosis, therapy, follow- up and/or education, and may include any of the Following: \n Patient medical records\n Medical Images\n Medical test result\n live two-way audio and video, \n output data from medical devices and sound and video Files. \n Electronic System used will incorporate network and software confidentially of patient identification and imaging data and will include measures to safeguard the data and to ensure its integrity against intentional or unintentional corruption. Responsibilities for the patient care should remain with the patient's local clinician, if you have one, as does the patient's medical record ",
+  "institution": "Institution",
+  "labTechnologist": "Lab Technologist 200 Tk",
+  "livingCountry": "Living Country",
+  "logout": "Log Out",
+  "makeCall": "Make a Call",
+  "male": "Male",
+  "medicalOfficer": "Medical officer 600 TK",
+  "medicalRecord": "Medical\nRecord",
+  "medicalRecords": "Medical Record",
+  "medicineDelivery": "Medicine\nDelivery",
+  "mobile": "Mobile Number",
+  "mobileNumber": "Give Your Mobile Number",
+  "month": "Month",
+  "myProfile": "My Profile",
+  "newChat": "Start new Chat",
+  "newPassword": "New Password",
+  "newRequest": "Start new Request",
+  "newUser": "Do not have an Account",
+  "next": "Next",
+  "noCallConsultant": "Your Home has not any call Consultant",
+  "notification": "notification",
+  "oldUser": "Already Have a Account?",
+  "orderMedicine": "Order Medicine",
+  "orderNewMedicine": "Order New Medicine",
+  "other": "Others",
+  "packageHistory": "Package History",
+  "page": "Page Number",
+  "parent": "Parents",
+  "partner": "Partner Offer",
+  "partnerOffer": "Partner\nOffer",
+  "password": "Password",
+  "patientConsent": "Patient Consent To The Use of Telemedicine",
+  "patientDetails": "Details about Patient",
+  "patientId": "Patient ID",
+  "patientName": "Patient Name",
+  "patientPresentAddress": "Patient Present Address",
+  "patientProblem": "write the patient problem",
+  "payment": "Payment",
+  "paymentConfirmation": "Payment using card or mobile Banking",
+  "physioTherapist": "PhysioTherapist 600 Tk",
+  "possibleRisk": "As with any medical procedure, there are potential risk associated with the use of telemedicine.These risks include but may not be limited to: in rare cases, the consultant may determine that the transmitted information is of inadequate quality. thus necessitating a face to face meeting with the patient, or at least a reschedule video consult. \n\n Delays in medical evaluation and treatment could occur due to deficiencies or failure of the equipment.\n In very rare instances, security protocols could fail, causing a breach or privacy of personal medical information.\n in rare cases, a lack of access to complete medical records may result in adverse drug interactions or allergic reactions or others judgment errors, By Checking the box associated with 'Informed consent' you acknowledge that you understand and agree with the following. \n I understand that the laws that protect privacy and the confidentiality of medical information also apply to telemedicine, and that no information obtained the use of telemedicine, which identifies me, will be disclosed to researcher with other entities without my consent.\n I Understand that i have the right to withhold or withdraw my consent to the use of telemedicine in the course of my care at any time, without affecting my right to future care or treatment.\n I Understand the alternatives to telemedicine consultation as they have been explained to me, and in choosing to participates in a telemedicine consultation, I understand that some parts of the exam, involving physical tests may be conducted by individuals physical test may be conducted by individuals at my  location or at a testing facility, at the direction of the consulting healthcare provider.\n I understand that telemedicine may involve electronic communication of my personal medical information to other medical practitioners who may be located in other areas, including out of state.\n I Understand that I may expect the anticipated benefits from the use of telemedicine in my care, but that no results can be guaranteed or assured. I Understand that my healthcare information may be shared with other individuals for scheduling and billing purposes. Others may also be present during the consultant other than my healthcare provider and consulting healthcare provider in order to operate video equipment. The above mentioned people will al maintain confidentiality of the information obtained, I further understand that i will be informed of their presence in the consultation and thus will have the right to request the following: \n (1) omit specific details of my medical history/physical examination that are personally sensitive to me. \n (2) ask non-medical personnel to leave the telemedicine examination room and/or \n(3) terminate the consultant at any time",
+  "preference": " write about which country and which hospital you want to continue your treatment",
+  "prescription": "Prescription",
+  "presentAddress": "Present Address",
+  "profile": "Profile",
+  "profileSetting": "Profile Setting",
+  "publishDate": "Publish Date",
+  "publisher": "Publisher",
+  "questionAsk": "Ask Question",
+  "questionHistory": "Question History",
+  "recordType": "Record Type",
+  "registration": "registration",
+  "relation": "Relation",
+  "report": "report",
+  "requestHistory": "Request History",
+  "requiredField": "The Field is Required",
+  "risks": "Possible Risks",
+  "save": "Save",
+  "saveAndCarryOn": "Save and Carry on",
+  "schedule": " Selected Schedule",
+  "scheduleHistory": "Schedule History",
+  "selectService": "Select The Service",
+  "selectSpeciality": "select the speciality",
+  "self": "Self",
+  "service": "Which service you searching today",
+  "signIn": "signIn",
+  "signUp": "Start",
+  "specialistId": "Specialist ID",
+  "speciality": "Speciality",
+  "specialityId": "Speciality ID",
+  "startNewSchedule": "Start new Schedule",
+  "status": "status",
+  "terms": "Terms and Condition",
+  "termsCondition": "Terms & Condition",
+  "time": "Time",
+  "unavailableService": "Due to Covid-19 Pandemic situation The service is not available at that moment. if necessary phone oh help line.(phone number 0170-8500125, 10 a.m to 5.00 p.m",
+  "uploadPrescription": "Upload Prescription",
+  "uploadRecord": "Upload Record",
+  "userFullName": "Your Full Name",
+  "userGuide": "GuideLines for User",
+  "userName": "User Name",
+  "videoConsultant": "Video\nnConsultant",
+  "warningMessage": "It is not applicable for emergency service.for chat consultant\ndescribe your problem details. after confirm\n the payment within 60 minutes a verified doctor join \n chat consultant. it's available from 9:00 am to 9:00 p.m\n the fee of chat consultant is 150 tk",
+  "welcome": "Welcome to Hello Doctor Asia",
+  "welcomeMessage": "Welcome",
+  "wife": "Wife",
+  "wordLimit": "write within 200 words, minimum 20 words",
+  "year": "Year",
+  "freeConsultant": "Free Consultant",
+  "createSchedule": "Create new Schedule",
+  "accountManagement": "Account Management"
+}
