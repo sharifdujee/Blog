@@ -23,7 +23,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return ScopedModel(
-      model: ContactModel(),
+      model: ContactModel()..loadContacts(),
       child: MaterialApp(
         locale: _locale,
         debugShowCheckedModeBanner: false,

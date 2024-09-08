@@ -40,6 +40,26 @@ dependencies:
   flutter_slidable: ^3.1.1
   image_picker: ^1.1.2
   flutter_localization: ^0.2.1
+  sembast: ^3.7.2
+  path_provider: ^2.1.4
+  url_launcher: ^6.3.0
+  permission_handler: ^11.3.1
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: 'assets/images/logo.png'
+
+flutter_native_splash:
+  color: "#f5372a"
+  image: 'assets/images/img.png'
+  branding: 'assets/images/logo.png'
+  branding_mode: bottom
+  branding_bottom_padding: 24
+  icon_background_color: '#111111'
+
 
 dev_dependencies:
   flutter_test:
